@@ -1,2 +1,2 @@
-# Programming-for-BI-
+# Programming-for-BI
 Coursework - Summer 2022
